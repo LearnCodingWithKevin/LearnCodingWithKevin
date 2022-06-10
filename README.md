@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LearnCodingWithKevin
 - 👀 I’m interested in Loli
 - 🌱 I’m currently learning Flutter & Html
-- 💞️ I’m looking to collaborate on Google, Amazon, Meta, Microsoft And Mihoyo
+- 💞️ I’m looking to collaborate on Google, Amazon, Meta, Microsoft and Mihoyo
 - 📫 How to reach me Datang Weh Ke Rumah
 
 <!---
